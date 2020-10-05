@@ -29,7 +29,7 @@ Open source, No need a license.
 
 ## Contribute : 
 
-By Niro for now.
+By Niro.
 
 ## Test : 
 
